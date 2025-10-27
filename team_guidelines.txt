@@ -1,0 +1,2 @@
+1. Always create a new branch for features.
+2. Write clear commit messages.
